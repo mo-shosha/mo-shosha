@@ -1,7 +1,11 @@
 ### Hi there 👋, my name is Mohamed
+#### I am .NET  Developer
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MOHAMED22SHOSHA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-shosha-994803273/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mo.shosha.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Mohamed_Shosha)  
  
-#### I am .NET  Developer
+
 
 
 I am .NET  Developer, l am currently a student at faculty of computers and informatics , tanta university and I interested in problem solving
@@ -16,8 +20,6 @@ Skills:
 * HTML
 * CSS
 * JS
-
-
 
 
 
