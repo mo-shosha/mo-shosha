@@ -4,7 +4,7 @@
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='github' height='40'>](https://github.com/MOHAMED22SHOSHA)  
 [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-shosha-994803273/)  
 [<img src='https://img.icons8.com/color/48/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/mo.shosha.7)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Mohamed_Shosha) 
+[<img src='https://img.icons8.com/color/48/000000/codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/Mohamed_Shosha)  
 
 ---
 
@@ -20,6 +20,7 @@ I am a .NET Developer, currently a student at the Faculty of Computers and Infor
 [<img src='https://img.icons8.com/color/48/000000/c-sharp-logo-2.png' alt='C#' height='40'>](https://docs.microsoft.com/en-us/dotnet/csharp/)  
 [<img src='https://img.icons8.com/color/48/000000/c-plus-plus-logo.png' alt='C++' height='40'>](https://isocpp.org/)  
 [<img src='https://img.icons8.com/color/48/000000/javascript--v1.png' alt='JavaScript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[<img src='https://img.icons8.com/color/48/000000/python.png' alt='Python' height='40'>](https://www.python.org/)  
 
 #### Web Development:
 [<img src='https://img.icons8.com/color/48/000000/html-5--v1.png' alt='HTML5' height='40'>](https://developer.mozilla.org/en-US/docs/Web/HTML)  
