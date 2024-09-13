@@ -4,7 +4,7 @@
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='github' height='40'>](https://github.com/MOHAMED22SHOSHA)  
 [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-shosha-994803273/)  
 [<img src='https://img.icons8.com/color/48/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/mo.shosha.7)  
-[<img src='https://img.icons8.com/color/48/000000/codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/Mohamed_Shosha)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Mohamed_Shosha) 
 
 ---
 
