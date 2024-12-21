@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/mohamed22shosha/count.svg">
+<img src="https://profile-counter.glitch.me/mo-shosha/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/mohamed22shosha.svg?style=social&label=Followers)](https://github.com/mohamed22shosha?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/mo-shosha.svg?style=social&label=Followers)](https://github.com/mo-shosha?tab=followers)
 
 
 
-<img src="https://komarev.com/ghpvc/?username=mohamed22shosha&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=mo-shosha&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
@@ -95,8 +95,8 @@
   </a>
 </p>
 
-<h3>My GitHub Stats</h3> <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" > <br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed22shosha&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamed22shosha" /></p>
+<h3>My GitHub Stats</h3> <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" > <br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-shosha&show_icons=true&theme=dark&locale=en&layout=compact" alt="mo-shosha" /></p>
 <br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamed22shosha&show_icons=true&theme=dark&locale=en" alt="mohamed22shosha" /></p> <br><br><br><br><br><br><br><br><br><br> <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed22shosha&theme=dark" alt="mohamed22shosha" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mo-shosha&show_icons=true&theme=dark&locale=en" alt="mo-shosha" /></p> <br><br><br><br><br><br><br><br><br><br> <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed22shosha&theme=dark" alt="mo-shosha" /></p> 
 
