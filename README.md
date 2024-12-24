@@ -19,7 +19,7 @@
 
 <h3>Connect with me on</h3>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-shosha">
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-shosha-994803273/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   &emsp;
@@ -27,7 +27,15 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   &emsp;
+  <a target="_blank" href="https://t.me/mo_shosha">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white">
+  </a>
+  &emsp;
+  <a target="_blank" href="https://www.facebook.com/mo.shosha.7">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
 </p>
+
 
 
 ## 🛠️ My Skills
