@@ -1,6 +1,10 @@
-### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/mo-shosha/count.svg">
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F47743&center=true&vCenter=true&random=false&width=435&lines=Hi+there 👋+%F0%9F%91%8B;I'am+Mohamed+Shosha;And+a+.NET+Developer" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">🌱 I’m currently learning ASP.NET Core | Angular <br>
+</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/mo-shosha.svg?style=social&label=Followers)](https://github.com/mo-shosha?tab=followers)  
 <img src="https://komarev.com/ghpvc/?username=mo-shosha&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
@@ -86,14 +90,16 @@
 
 <h3>My GitHub Stats</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-shosha&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-shosha&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-shosha&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="200" />
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mo-shosha&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
 <br>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo-shosha&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mo-shosha&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa"  />
+  </a>
+</p>
 
 
 ---
