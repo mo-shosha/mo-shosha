@@ -90,7 +90,20 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-shosha&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mo-shosha&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
+<br>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo-shosha&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+
 
 ---
 
-### Snake Eating My Contributions 🐍
+### 🐍 A Snake Eating my Contributions Graph
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mo-shosha/mo-shosha/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mo-shosha/mo-shosha/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mo-shosha/mo-shosha/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
