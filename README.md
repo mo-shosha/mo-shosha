@@ -16,9 +16,7 @@
 - 🔭 I’m currently working on .NET development projects.  
 - 🌱 I have professional experience in .NET development, APIs, and building web applications, with expertise in **C#, SQL**, and I'm learning **Angular**.  
 - 👯 I’m looking to collaborate on .NET and API development projects.  
-- 🤔 I’m also the **head of the media team at ICPC Tanta**, working on community outreach and event management.  
 - 💬 Ask me about programming, competitive programming, or .NET development.  
-- 📫 I am also a **technical writer at Medium**.  
 
 ---
 
