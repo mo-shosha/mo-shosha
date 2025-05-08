@@ -1,10 +1,8 @@
-
+<h1 align="center">Hi , I'm Mohamed Shosha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F47743&center=true&vCenter=true&random=false&width=435&lines=Hi+there 👋+%F0%9F%91%8B;I'am+Mohamed+Shosha;And+a+.NET+Developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Back+End+.NET+Developer;Computer+Science+Student"></a>
 </p>
 
-<h3 align="center">🌱 I’m currently learning ASP.NET Core | Angular <br>
-</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/mo-shosha.svg?style=social&label=Followers)](https://github.com/mo-shosha?tab=followers)  
 <img src="https://komarev.com/ghpvc/?username=mo-shosha&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
